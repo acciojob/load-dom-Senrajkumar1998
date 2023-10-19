@@ -1,4 +1,4 @@
 //your JS code here. If required.
 const para = document.createElement("p");
 para.innerText = "DOM load success";
-document.body.appendChild(para);
+document.appendChild(para);
